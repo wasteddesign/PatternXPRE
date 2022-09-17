@@ -1,2 +1,2 @@
 # PatternXPRE
-Editor plugin for Jeskola Buzz Digital Audio Workstation.
+Editor plugin for the amazing [Jeskola Buzz](https://jeskola.net/buzz/) Digital Audio Workstation. Makes composing, recording and mastering [music](https://wasteddesign.weebly.com/music.html) more enjoyable.
